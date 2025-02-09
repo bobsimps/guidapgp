@@ -2,7 +2,7 @@
 ***
 Una mini guida semplice per imparare ad utilizzare la crittografia PGP negli scambi quotidiani peer-to-peer.
 
-📄 [Scarica il PDF]()
+Scarica il PDF ➜ [📄]()
 
 _Bob Simpson_
 ***
