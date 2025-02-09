@@ -15,3 +15,6 @@ OpenPGP Fingerprint:
 ```
 09F04458E0EAA33CBED7B1F214EFF4D1E421A50E
 ```
+
+Chiave pubblica PGP ➜ [🔑](https://raw.githubusercontent.com/bobsimps/guidapgp/refs/heads/main/bobsimps.asc)
+
