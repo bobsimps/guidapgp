@@ -1,6 +1,6 @@
 ## Guida PGP per gli scambi p2p
 ***
-Una mini guida semplice per imparare ad utilizzare la crittografia PGP negli scambi quotidiani peer-to-peer.
+Una semplice mini guida per imparare ad utilizzare la crittografia PGP negli scambi quotidiani peer-to-peer.
 
 Scarica il PDF ➜ [📄]()
 
