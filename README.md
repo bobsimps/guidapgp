@@ -11,7 +11,7 @@ Telegram:
 @bobsimps
 ```
 
-OpenPGP Fingerprint:
+Fingerprint PGP:
 ```
 09F04458E0EAA33CBED7B1F214EFF4D1E421A50E
 ```
